@@ -4,7 +4,7 @@ A fun and functional calculator that makes fart sounds when you calculate result
 
 ## 🎮 Live Demo
 
-Try it out here: [Fart Calculator](https://yourusername.github.io/fart-calculator)
+Try it out here: [Fart Calculator](https://sadphillyboy.github.io/fart-calc)
 
 ## 🌟 Features
 
